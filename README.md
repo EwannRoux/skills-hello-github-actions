@@ -1,14 +1,15 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions :smile:
 
 _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Step 5: Trigger the workflow
+## Step 5: Trigger the workflow :smile:
 
 _You've now added a fully functioning workflow to your repository! :smile:_
+
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
